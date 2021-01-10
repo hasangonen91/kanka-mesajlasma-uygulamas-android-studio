@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "132739924996",
+    "firebase_url": "https://kanka-f843b.firebaseio.com",
+    "project_id": "kanka-f843b",
+    "storage_bucket": "kanka-f843b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132739924996:android:875b4e3a63106b6b6de151",
+        "android_client_info": {
+          "package_name": "com.example.kanka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132739924996-6mqtcatq5o9iqoud488q8418hcnjvaj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoqn3FbLKiwlF2y-iuOmrGHhJUDIq_H7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132739924996-6mqtcatq5o9iqoud488q8418hcnjvaj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

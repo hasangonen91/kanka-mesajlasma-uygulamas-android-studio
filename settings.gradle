@@ -1,0 +1,2 @@
+rootProject.name='kanka'
+include ':app'
